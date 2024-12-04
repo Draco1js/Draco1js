@@ -1,4 +1,8 @@
-### My Stack
+# Hi!
+
+I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise SAAS products :)
+
+# 💻 My Stack
 
 ![typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=#3178C6) 
 ![react](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB) 
@@ -25,12 +29,15 @@
 
 
 
-Connect with me
+# ✨ Connect with me
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Draco1js?style=for-the-badge&logo=x)](https://x.com/Draco1js)
-[![gdev](https://img.shields.io/badge/Google%20%20Developers-555?style=for-the-badge&logo=GoogleCloud&logoColor=#FFFFFF)](https://g.dev/draco)
+[![gdev](https://img.shields.io/badge/Google%20%20Developers-555?style=for-the-badge&logo=GoogleCloud&logoColor=#FFFFFF)](https://g.dev/draco)<br>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#FFFFFF)](https://linkedin.com/in/aayansultan)
 [![reddit](https://img.shields.io/reddit/user-karma/combined/Blockque?style=for-the-badge)](https://reddit.com/u/Blockque)
 
+# 🧭 Trackers
+
+[![](https://discord.c99.nl/widget/theme-1/427435240093646849.png)](https://discord.com/users/427435240093646849)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Draco1js&theme=tokyonight&show_icons=true)](https://github.com/Draco1js)
 
-[![](https://discord.c99.nl/widget/theme-1/427435240093646849.png)](https://discord.com/users/427435240093646849)
