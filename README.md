@@ -38,6 +38,6 @@ I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise SAA
 
 # 🧭 Trackers
 
-[![](https://discord.c99.nl/widget/theme-1/427435240093646849.png)](https://discord.com/users/427435240093646849)<br>
-[![Top Langs](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api/top-langs/?username=Draco1js&theme=tokyonight&show_icons=true)](https://github.com/Draco1js/)<br>
-[![Anurag's GitHub stats](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api?username=Draco1js&theme=tokyonight&show_icons=true)](https://github.com/Draco1js)<br>
+[![Top Langs](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api/top-langs/?username=Draco1js&theme=tokyonight&show_icons=true&layout=donut-vertical)](https://github.com/Draco1js/)
+[![Anurag's GitHub stats](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api?username=Draco1js&theme=tokyonight&show_icons=true&rank_icon=github)](https://github.com/Draco1js)<br>
+[![](https://discord.c99.nl/widget/theme-2/427435240093646849.png)](https://discord.com/users/427435240093646849)<br>
