@@ -1,6 +1,6 @@
 # Hi!
 
-I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise SAAS products :)
+I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise SaaS products :)
 
 # 💻 My Stack
 
