@@ -1,7 +1,7 @@
 # Hi!
 ![](https://hit.yhype.me/github/profile?account_id=73338755)
 
-I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise SaaS products :)
+I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise SaaS products :)<br>
 
 # 💻 My Stack
 
