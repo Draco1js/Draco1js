@@ -41,3 +41,7 @@ I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise Saa
 [![Top Langs](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api/top-langs/?username=Draco1js&theme=tokyonight&show_icons=true&layout=donut-vertical)](https://github.com/Draco1js/)
 [![Anurag's GitHub stats](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api?username=Draco1js&theme=tokyonight&show_icons=true&rank_icon=github)](https://github.com/Draco1js)<br>
 [![](https://discord.c99.nl/widget/theme-2/427435240093646849.png)](https://discord.com/users/427435240093646849)<br>
+#
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Draco1js&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ProfileViews" /> </p>
+<h1></h1>
