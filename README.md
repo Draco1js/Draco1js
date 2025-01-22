@@ -24,8 +24,7 @@ I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise Saa
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=#4169D1)
 ![adobecreativecloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=AdobeCreativeCloud&logoColor=#4169D1)
 ![figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=#4169D1)
-
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
