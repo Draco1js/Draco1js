@@ -4,10 +4,11 @@ I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise Saa
 
 Here are some of my projects: 
 
-[📚 MRCOG Easy LMS (Contract)](https://mrcogoverseas.dracodev.me)<br>
-[🪐 Orbit Logistics Package Tracker (Contract)](https://mrcogoverseas.dracodev.me)<br>
-[🛒 Dhaba.shop (Trying to get this startup off the ground)](https://www.dhaba.shop)<br>
-[🗓️ Offline PWA Timetable App (Side Project)](https://timetable.dracodev.me)<br>
+[![MRCOG](https://img.shields.io/badge/📚_MRCOG_Easy_LMS_(Contract)-232F3E?style=for-the-badge)](https://mrcogoverseas.dracodev.me)
+[![Orbit Logistics](https://img.shields.io/badge/🪐_Orbit_Logistics_(Contract)-0D6EFD?style=for-the-badge)](https://mrcogoverseas.dracodev.me)<br>
+[![Dhaba.shop](https://img.shields.io/badge/🛍️_Dhaba.shop_(Startup)-28A745?style=for-the-badge)](https://www.dhaba.shop)
+[![Timetable App](https://img.shields.io/badge/🗓️_Timetable_App_(Side_Project)-673AB7?style=for-the-badge)](https://timetable.dracodev.me)<br>
+
 
 
 
