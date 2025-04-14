@@ -2,6 +2,15 @@
 
 I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise SaaS products :)
 
+Here are some of my projects: 
+
+[📚 MRCOG Easy LMS (Contract)](https://mrcogoverseas.dracodev.me)<br>
+[🪐 Orbit Logistics Package Tracker (Contract)](https://mrcogoverseas.dracodev.me)<br>
+[🛒 Dhaba.shop (Trying to get this startup off the ground)](https://www.dhaba.shop)<br>
+[🗓️ Offline PWA Timetable App (Side Project)](https://timetable.dracodev.me)<br>
+
+
+
 # 💻 My Stack
 
 ![typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=#3178C6) 
@@ -30,12 +39,11 @@ I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise Saa
 
 # ✨ Connect with me
 
+[![resume](https://img.shields.io/badge/Resume-555?style=for-the-badge&logo=ReadMe&logoColor=#FFFFFF)](./Aayan_Sultan_Resume_23_02_2025.pdf)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Draco1js?style=for-the-badge&logo=x)](https://x.com/Draco1js)
 [![gdev](https://img.shields.io/badge/Google%20%20Developers-555?style=for-the-badge&logo=GoogleCloud&logoColor=#FFFFFF)](https://g.dev/draco)<br>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#FFFFFF)](https://linkedin.com/in/aayansultan)
 [![reddit](https://img.shields.io/reddit/user-karma/combined/Blockque?style=for-the-badge)](https://reddit.com/u/Blockque)
-
-[My resume](./Aayan_Sultan_Resume_23_02_2025.pdf)
 
 # 🧭 Trackers
 
