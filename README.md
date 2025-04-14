@@ -2,7 +2,7 @@
 
 I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise SaaS products :)
 
-Here are some of my projects: 
+Here are some of my projects (The badges are clickable): 
 
 [![MRCOG](https://img.shields.io/badge/📚_MRCOG_Easy_LMS_(Contract)-232F3E?style=for-the-badge)](https://mrcogoverseas.dracodev.me)
 [![Orbit Logistics](https://img.shields.io/badge/🪐_Orbit_Logistics_(Contract)-0D6EFD?style=for-the-badge)](https://mrcogoverseas.dracodev.me)<br>
