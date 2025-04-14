@@ -35,6 +35,8 @@ I'm a Full Stack Web Developer, Cybersecurity student, and I sell enterprise Saa
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#FFFFFF)](https://linkedin.com/in/aayansultan)
 [![reddit](https://img.shields.io/reddit/user-karma/combined/Blockque?style=for-the-badge)](https://reddit.com/u/Blockque)
 
+[My resume](./Aayan_Sultan_Resume_23_02_2025.pdf)
+
 # 🧭 Trackers
 
 [![Top Langs](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api/top-langs/?username=Draco1js&theme=tokyonight&show_icons=true&layout=donut-vertical)](https://github.com/Draco1js/)
