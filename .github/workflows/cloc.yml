@@ -85,9 +85,9 @@ jobs:
 
           node update-loc.js
 
-      - name: Pull latest changes from remote
+      - name: Pull latest changes from remote with rebase
         run: |
-          git pull origin main
+          git pull --rebase origin main
 
       - name: Commit and push changes
         run: |
