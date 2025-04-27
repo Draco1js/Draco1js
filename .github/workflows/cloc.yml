@@ -87,11 +87,17 @@ jobs:
 
           node update-loc.js
 
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
           cd Draco1js
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --cached --quiet || git commit -m "Update total lines of code in README"
-          git push origin main
+
+      - name: Fetch remote changes and force-push
+        run: |
+          cd Draco1js
+          git fetch origin
+          git reset --hard origin/main  # Make sure we're in sync with the remote before pushing
+          git push --force origin main  # Force push changes to the remote repository
