@@ -48,9 +48,6 @@ Here are some of my projects (The badges are clickable):
 
 # 🧭 Trackers
 
-Total Line Count for all public repositories:
-<!-- START LOC -->\n- **Total lines of code**: 0 lines\n<!-- END LOC -->
-
 
 [![Top Langs](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api/top-langs/?username=Draco1js&theme=tokyonight&show_icons=true&layout=donut-vertical)](https://github.com/Draco1js/)
 [![Anurag's GitHub stats](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api?username=Draco1js&theme=tokyonight&show_icons=true&rank_icon=github)](https://github.com/Draco1js)
