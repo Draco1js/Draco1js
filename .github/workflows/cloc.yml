@@ -68,7 +68,7 @@ jobs:
               totalLOC += loc;
             }
 
-            const md = '- **Total lines of code**: ' + totalLOC + ' lines';
+            const md = totalLOC.toString();
 
             const readme = fs.readFileSync(readmePath, 'utf-8');
             const newSection = startMarker + '\\n' + md + '\\n' + endMarker;
