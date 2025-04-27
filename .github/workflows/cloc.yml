@@ -1,0 +1,95 @@
+name: Update LOC in README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1' # every Monday
+
+jobs:
+  count-loc:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install axios
+        run: npm install axios
+
+      - name: Count LOC and update README
+        run: |
+          echo "Starting LOC count..."
+
+          cat << 'EOF' > update-loc.mjs
+          import axios from 'axios';
+          import fs from 'fs';
+
+          const username = 'Draco1js';
+          const readmePath = 'README.md';
+          const startMarker = '<!-- START LOC -->';
+          const endMarker = '<!-- END LOC -->';
+
+          const getRepos = async () => {
+            const repos = [];
+            let page = 1;
+            while (true) {
+              const res = await axios.get(\`https://api.github.com/users/\${username}/repos?per_page=100&page=\${page}\`);
+              if (res.data.length === 0) break;
+              repos.push(...res.data.map(r => r.name));
+              page++;
+            }
+            return repos;
+          };
+
+          const getLOC = async (repo) => {
+            try {
+              const url = \`https://api.codetabs.com/v1/loc?github=\${username}/\${repo}\`;
+              const res = await axios.get(url);
+              const total = res.data.find(lang => lang.language === 'Total');
+              return total ? total.linesOfCode : 0;
+            } catch (err) {
+              console.error(\`Failed to get LOC for \${repo}: \`, err.message);
+              return 0;
+            }
+          };
+
+          const run = async () => {
+            const repos = await getRepos();
+            const results = [];
+
+            for (const repo of repos) {
+              const loc = await getLOC(repo);
+              results.push({ repo, loc });
+            }
+
+            const md = results
+              .map(r => \`- [\${r.repo}](https://github.com/\${username}/\${r.repo}): \${r.loc} lines of code\`)
+              .join('\\n');
+
+            const readme = fs.readFileSync(readmePath, 'utf-8');
+            const newSection = \`\${startMarker}\\n\${md}\\n\${endMarker}\`;
+            const updated = readme.replace(
+              new RegExp(\`\${startMarker}[\\s\\S]*?\${endMarker}\`, 'm'),
+              newSection
+            );
+            fs.writeFileSync(readmePath, updated);
+            console.log("README updated.");
+          };
+
+          run();
+          EOF
+
+          node update-loc.mjs
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update lines of code in README"
+          git push
