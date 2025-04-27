@@ -68,7 +68,9 @@ jobs:
             }
 
             const md = results
-              .map(r => '- [' + r.repo + '](https://github.com/' + username + '/' + r.repo + '): ' + r.loc + ' lines of code')
+              .map(function(r) {
+                return '- [' + r.repo + '](https://github.com/' + username + '/' + r.repo + '): ' + r.loc + ' lines of code';
+              })
               .join('\\n');
 
             const readme = fs.readFileSync(readmePath, 'utf-8');
