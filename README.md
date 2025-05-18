@@ -7,11 +7,8 @@ Here are some of my projects (The badges are clickable):
 [![MRCOG](https://img.shields.io/badge/📚_MRCOG_Easy_LMS_(Contract)-232F3E?style=for-the-badge)](https://mrcogoverseas.dracodev.me)
 [![Orbit Logistics](https://img.shields.io/badge/🪐_Orbit_Logistics_(Contract)-0D6EFD?style=for-the-badge)](https://orbitlogistics.dracodev.me)<br>
 [![Dhaba.shop](https://img.shields.io/badge/🛍️_Dhaba.shop_(Startup)-28A745?style=for-the-badge)](https://www.dhaba.shop)
-[![Timetable App](https://img.shields.io/badge/🗓️_Timetable_App_(Side_Project)-673AB7?style=for-the-badge)](https://timetable.dracodev.me)<br>
-
-<br><br>
-
-[![My Blog](https://img.shields.io/badge/💡_Blog-FFFFFF?style=for-the-badge)](https://www.dracodev.me)
+[![Timetable App](https://img.shields.io/badge/🗓️_Timetable_App_(Side_Project)-673AB7?style=for-the-badge)](https://timetable.dracodev.me)
+[![My Blog](https://img.shields.io/badge/💡_My_Blog-000000?style=for-the-badge)](https://www.dracodev.me)<br>
 
 # 💻 My Stack
 
