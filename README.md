@@ -9,8 +9,9 @@ Here are some of my projects (The badges are clickable):
 [![Dhaba.shop](https://img.shields.io/badge/🛍️_Dhaba.shop_(Startup)-28A745?style=for-the-badge)](https://www.dhaba.shop)
 [![Timetable App](https://img.shields.io/badge/🗓️_Timetable_App_(Side_Project)-673AB7?style=for-the-badge)](https://timetable.dracodev.me)<br>
 
+<br><br>
 
-
+[![My Blog](https://img.shields.io/badge/💡_Blog-FFFFFF?style=for-the-badge)](https://www.dracodev.me)
 
 # 💻 My Stack
 
