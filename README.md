@@ -38,7 +38,7 @@ Here are some of my projects (The badges are clickable):
 
 # ✨ Connect with me
 
-[![resume](https://img.shields.io/badge/Resume-555?style=for-the-badge&logo=ReadMe&logoColor=#FFFFFF)](./Aayan_Sultan_Resume_23_02_2025.pdf)
+[![resume](https://img.shields.io/badge/Resume-555?style=for-the-badge&logo=ReadMe&logoColor=#FFFFFF)](./Aayan_Sultan_Resume_v9_-_04-01-2025.pdf)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Draco1js?style=for-the-badge&logo=x)](https://x.com/Draco1js)
 [![gdev](https://img.shields.io/badge/Google%20%20Developers-555?style=for-the-badge&logo=GoogleCloud&logoColor=#FFFFFF)](https://g.dev/draco)<br>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#FFFFFF)](https://linkedin.com/in/aayansultan)
