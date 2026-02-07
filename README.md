@@ -47,9 +47,9 @@ Here are some of my projects (The badges are clickable):
 # 🧭 Trackers
 
 
-[![Top Langs](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api/top-langs/?username=Draco1js&theme=tokyonight&show_icons=true&layout=donut-vertical)](https://github.com/Draco1js/)
-[![Anurag's GitHub stats](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api?username=Draco1js&theme=tokyonight&show_icons=true&rank_icon=github)](https://github.com/Draco1js)
+<!-- [![Top Langs](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api/top-langs/?username=Draco1js&theme=tokyonight&show_icons=true&layout=donut-vertical)](https://github.com/Draco1js/) -->
 ![](https://hit.yhype.me/github/profile?account_id=73338755)<br>
+[![Anurag's GitHub stats](https://github-readme-stats-endpoint-d1js-git-main-draco1js-projects.vercel.app/api?username=Draco1js&theme=tokyonight&show_icons=true&rank_icon=github)](https://github.com/Draco1js)
 [![](https://discord.c99.nl/widget/theme-3/427435240093646849.png)](https://discord.com/users/427435240093646849)
 ![](https://github.com/Draco1js/Draco1js/blob/main/profile-3d-contrib/profile-night-view.svg)
 <br>
